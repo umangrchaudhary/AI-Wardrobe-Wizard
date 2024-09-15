@@ -31,7 +31,7 @@ This project uses the Stable Diffusion model for image inpainting, allowing user
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/umangrchaudhary/AI-Wardrobe-Wizard.git](https://github.com/umangrchaudhary/AI-Wardrobe-Wizard.git)
+    git clone https://github.com/umangrchaudhary/AI-Wardrobe-Wizard.git
     cd ai-wardroable-wizard
     ```
 
