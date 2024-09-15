@@ -60,8 +60,12 @@ This project uses the Stable Diffusion model for image inpainting, allowing user
 
 ### Output Images
 
-- **Modifiying tshirt with formal shirt**: ![Original Image](diff_output1.png)
-- **Modifiying jeans**: ![Modified Image](diff_output2.png)
+- **Modifiying tshirt with formal shirt**:
+- prompt used: a man with formal shirt.
+- ![Original Image](diff_output1.png)
+- **Modifiying jeans**:
+- prompt used: jeans torn near the knees
+- ![Modified Image](diff_output2.png)
 
 ## Notes
 
