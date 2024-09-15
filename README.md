@@ -21,3 +21,6 @@ Prerequisites
 Python 3.7+
 Required Python packages: opencv-python, torch, transformers, diffusers
 Stable Diffusion model weights (downloaded and available in your environment)
+
+#### Installation
+```git clone https://github.com/umangrchaudhary/AI-Wardrobe-Wizard.git```
